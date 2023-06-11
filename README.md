@@ -57,4 +57,4 @@ The key modules of this project include:
 Procedural Painting Using Genetic Evolution Algorithm in Unity 3D with Compute Shaders offers a powerful tool for generating unique paintings through an evolutionary approach. The combination of genetic evolution algorithms, compute shaders, and Unity provides a versatile platform for exploring artistic creativity and generating visually compelling artwork. By adjusting the algorithm parameters and experimenting with different input images, users can unlock a wide range of artistic possibilities and achieve captivating results.
 
 # Project Creator
-* Vivek Malam
+* Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
